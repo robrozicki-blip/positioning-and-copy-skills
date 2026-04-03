@@ -1,7 +1,7 @@
 ---
 name: competitive-positioning
 description: "3-phase competitive positioning workflow: interrogate the founder, scrape competitor sites to build battle cards, then produce a positioning canvas grounded in real data."
-user_invocable: true
+allowed-tools: WebFetch Write Read
 ---
 
 # Competitive Positioning
@@ -120,7 +120,7 @@ What category should you own? (May be an existing category, a sub-category, or a
 3. ...
 ```
 
-After delivering the canvas, ask: "Which headline and tagline resonate? I can refine from here or move into landing page copy with `/landing-page-copy`."
+After delivering the canvas, ask: "Which headline and tagline resonate? I can refine from here or move into landing page copy with `/positioning-and-copy:landing-page-copy`."
 
 ---
 

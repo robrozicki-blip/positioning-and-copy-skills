@@ -1,7 +1,6 @@
 ---
 name: interrogate-me
 description: "8-question marketing intake that produces a reusable Marketing Brief. Run before any content, copy, or campaign work."
-user_invocable: true
 ---
 
 # Interrogate Me — Marketing Intake
@@ -93,8 +92,8 @@ Present the brief and ask: "Does this capture everything? I'll use this as the f
 ## How Other Skills Use This
 
 The Marketing Brief is designed to be referenced by:
-- **`/competitive-positioning`** — can skip some Phase 1 questions if the brief exists
-- **`/landing-page-copy`** — uses the brief as positioning context
+- **`/positioning-and-copy:competitive-positioning`** — can skip some Phase 1 questions if the brief exists
+- **`/positioning-and-copy:landing-page-copy`** — uses the brief as positioning context
 - Any other content, copy, or campaign work in the conversation
 
 If the user runs another skill and a Marketing Brief already exists in the conversation, that skill should reference it automatically.

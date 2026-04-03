@@ -1,0 +1,10 @@
+{
+  "name": "positioning-and-copy",
+  "description": "Marketing skills for Claude Code: competitive positioning, landing page copy, and marketing intake.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Rob Rozicki"
+  },
+  "repository": "https://github.com/robrozicki-blip/positioning-and-copy-skills",
+  "license": "MIT"
+}

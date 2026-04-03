@@ -1,7 +1,7 @@
 ---
 name: landing-page-copy
 description: "Generate full homepage copy in one pass: Hero, Problem, Features, Who It's For, Social Proof, and CTA — each section labeled and ready to hand to a designer."
-user_invocable: true
+allowed-tools: Write Read
 ---
 
 # Landing Page Copy
@@ -18,7 +18,7 @@ Before writing, you need positioning context. Check if any of the following exis
 2. A **Marketing Brief** from the interrogate-me skill
 3. Direct user input about their product, ICP, and differentiator
 
-If none exist, ask the user: "I need positioning context before I write copy. Want to run `/competitive-positioning` first, or can you give me a quick brief on: what you sell, who it's for, the core problem you solve, and what makes you different?"
+If none exist, ask the user: "I need positioning context before I write copy. Want to run `/positioning-and-copy:competitive-positioning` first, or can you give me a quick brief on: what you sell, who it's for, the core problem you solve, and what makes you different?"
 
 ---
 

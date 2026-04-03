@@ -1,0 +1,13 @@
+{
+  "plugins": [
+    {
+      "name": "positioning-and-copy",
+      "version": "1.0.0",
+      "description": "Marketing skills: competitive positioning, landing page copy, and marketing intake.",
+      "source": {
+        "source": "github",
+        "repo": "robrozicki-blip/positioning-and-copy-skills"
+      }
+    }
+  ]
+}

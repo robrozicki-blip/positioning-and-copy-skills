@@ -1,13 +1,17 @@
 {
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "positioning-and-copy-skills",
+  "version": "1.0.0",
+  "description": "Marketing skills for Claude Code: competitive positioning, landing page copy, and marketing intake.",
+  "owner": {
+    "name": "Rob Rozicki"
+  },
   "plugins": [
     {
       "name": "positioning-and-copy",
-      "version": "1.0.0",
       "description": "Marketing skills: competitive positioning, landing page copy, and marketing intake.",
-      "source": {
-        "source": "github",
-        "repo": "robrozicki-blip/positioning-and-copy-skills"
-      }
+      "source": ".",
+      "category": "productivity"
     }
   ]
 }

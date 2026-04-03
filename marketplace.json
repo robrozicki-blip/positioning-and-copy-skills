@@ -10,7 +10,7 @@
     {
       "name": "positioning-and-copy",
       "description": "Marketing skills: competitive positioning, landing page copy, and marketing intake.",
-      "source": ".",
+      "source": "./plugins/positioning-and-copy",
       "category": "productivity"
     }
   ]
